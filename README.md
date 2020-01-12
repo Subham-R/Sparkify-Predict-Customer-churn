@@ -26,6 +26,7 @@ The motivation for this project is to predict the customers that are more likely
 1. Sparkify - Predict customer churn.ipynb
 
 This code present in Jupyter notebook was used to explore a smaller subset with Spark in Udacity workspace. Udacity workspace contains a tiny subset (128MB) of the full dataset available (12GB). 
+
 The code is structured into following sections:
   i) Load & Clean dataset
   
@@ -42,7 +43,8 @@ https://medium.com/p/cebba12d2a81/edit
 
 ## Results<a name="results"></a>
 After testing out three machine learning methods SVM, Logic regression and random forest method:
-Training score for all three models is around ~66% but Random Forest model has highest accuracy/ F1-score ~74% of three models
+Training score for all three models is around ~66% but Random Forest model has highest accuracy/ F1-score ~74% of three models.
+Refer to blog for further details and results : https://medium.com/p/cebba12d2a81/edit
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
