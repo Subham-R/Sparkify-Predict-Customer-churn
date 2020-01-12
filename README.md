@@ -29,13 +29,13 @@ This code present in Jupyter notebook was used to explore a smaller subset with 
 
 The code is structured into following sections:
 
-  i) Load & Clean dataset
+    i) Load & Clean dataset
   
-  ii) Exploratory Data Analysis including churn & downgrade identification
+    ii) Exploratory Data Analysis including churn & downgrade identification
   
-  iii) Feature Engineering
+    iii) Feature Engineering
   
-  iv) Modeling
+    iv) Modeling
 
 2. Project README file
 
