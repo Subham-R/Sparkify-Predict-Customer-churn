@@ -24,10 +24,15 @@ The motivation for this project is to predict the customers that are more likely
 ## File Descriptions <a name="files"></a>
 
 1. Sparkify - Predict customer churn.ipynb
-This code present in Jupyter notebook was used in the to build our project and  to explore a smaller subset with Spark in Udacity workspace. Udacity workspace contains a tiny subset (128MB) of the full dataset available (12GB). The code is structured into following sections:
+
+This code present in Jupyter notebook was used to explore a smaller subset with Spark in Udacity workspace. Udacity workspace contains a tiny subset (128MB) of the full dataset available (12GB). 
+The code is structured into following sections:
   i) Load & Clean dataset
+  
   ii) Exploratory Data Analysis including churn & downgrade identification
+  
   iii) Feature Engineering
+  
   iv) Modeling
 
 2. Project README file
