@@ -17,21 +17,27 @@ pyspark, datetime, numpy, matplot, pandas and seaborn
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project we have predicted churn rates for the Sparkify which is a music service.
-Churning is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business.
+For this project we have predicted churn rates for the Sparkify music service. Sparkify is assumed to be a popular digital music service where users can stream their songs using either free-tier or premium subscription model. The users have options to upgrade, downgrade and cancel the service. It is important for the Sparkify to predict the users actions so that can it can prevent users from cancelling or downgrading its services.
+
+The motivation for this project is to predict the customers that are more likely to churn based on their behaviors on the Sparkify. We are using Pyspark for the project.
 
 ## File Descriptions <a name="files"></a>
 
 1. Sparkify - Predict customer churn.ipynb
-2. Project README file
-3. Link to the blogpost
+This code present in Jupyter notebook was used in the to build our project and  to explore a smaller subset with Spark in Udacity workspace. Udacity workspace contains a tiny subset (128MB) of the full dataset available (12GB). The code is structured into following sections:
+  i) Load & Clean dataset
+  ii) Exploratory Data Analysis including churn & downgrade identification
+  iii) Feature Engineering
+  iv) Modeling
 
+2. Project README file
+
+3. Link to the blogpost
+https://medium.com/p/cebba12d2a81/edit
 
 ## Results<a name="results"></a>
-
-Dataset has distribution of message genres: news (highest), direct , social(lowest); distribution of categories and top 10 tokens
-
-It can alaso take a new message  as input and get classification results in several categories
+After testing out three machine learning methods SVM, Logic regression and random forest method:
+Training score for all three models is around ~66% but Random Forest model has highest accuracy/ F1-score ~74% of three models
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
