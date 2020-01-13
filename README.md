@@ -49,5 +49,5 @@ Refer to blog for further details and results : https://medium.com/@subham.rongh
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to udacity for the dat as part of udacity course. 
+Must give credit to udacity for the data as part of udacity course. 
 Feel free use the code and other info in this repo for all your references whenever required.
