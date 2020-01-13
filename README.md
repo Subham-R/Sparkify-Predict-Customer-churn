@@ -40,12 +40,12 @@ The code is structured into following sections:
 2. Project README file
 
 3. Link to the blogpost
-https://medium.com/p/cebba12d2a81/edit
+https://medium.com/@subham.ronghe/sparkify-predicting-user-churn-with-pyspark-cebba12d2a81
 
 ## Results<a name="results"></a>
 After testing out three machine learning methods SVM, Logic regression and random forest method:
 Training score for all three models is around ~66% but Random Forest model has highest accuracy/ F1-score ~74% of three models.
-Refer to blog for further details and results : https://medium.com/p/cebba12d2a81/edit
+Refer to blog for further details and results : https://medium.com/@subham.ronghe/sparkify-predicting-user-churn-with-pyspark-cebba12d2a81
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
